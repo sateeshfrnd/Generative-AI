@@ -1,0 +1,3 @@
+conda create --name gen_ai python=3.9
+conda activate gen_ai
+conda env list
